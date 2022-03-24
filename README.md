@@ -1,2 +1,2 @@
 # Personal Information System
-![](PIS%20o.PNG)
+<img src="PIS%20o.PNG" width="200px" />
